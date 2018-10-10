@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="cats">
+        <item>카테고리</item>
+        <item>일상메모</item>
+        <item>학사메모</item>
+        <item>중요약속</item>
+        <item>버킷리스트</item>
+    </string-array>
+
+</resources>

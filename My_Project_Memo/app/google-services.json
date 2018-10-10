@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "21596859740",
+    "firebase_url": "https://mydb-bcbc7.firebaseio.com",
+    "project_id": "mydb-bcbc7",
+    "storage_bucket": "mydb-bcbc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21596859740:android:9a82e4cb925e3373",
+        "android_client_info": {
+          "package_name": "com.biz.woo_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21596859740-gts9fibhk2oujr0n4udsjpo4tddq7gmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0S1glVmqtLNOXnmDdpoYWmvMGmP9n2fM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21596859740:android:4636af088e6c5b52",
+        "android_client_info": {
+          "package_name": "com.illidan.my_project_memo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21596859740-gts9fibhk2oujr0n4udsjpo4tddq7gmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0S1glVmqtLNOXnmDdpoYWmvMGmP9n2fM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21596859740:android:b66a3e5ed9e713da",
+        "android_client_info": {
+          "package_name": "com.illidangyu.bsc_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21596859740-gts9fibhk2oujr0n4udsjpo4tddq7gmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0S1glVmqtLNOXnmDdpoYWmvMGmP9n2fM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21596859740:android:b0c3b888ee2aaa36",
+        "android_client_info": {
+          "package_name": "com.illidangyu.firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21596859740-gts9fibhk2oujr0n4udsjpo4tddq7gmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0S1glVmqtLNOXnmDdpoYWmvMGmP9n2fM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
